@@ -1,37 +1,31 @@
-# Alba Bootstrap 4 Admin Template with AngularJS and Angular 2 support.
+# Angular2DevelopmentCLI
 
-Alba is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if it’s not enough, let’s just add the Clver consists bunch of unique features and over 1000 high quality icons.,
+This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.11-webpack.8.
 
-Alba based on Bootstrap 4 and offers 5 versions: HTML5, AJAX, AngularJS, Angular2 and React.
+## Development server
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Alba is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means also mobile devices, where the navigation is the same easy and intuitive as in desktop or laptop. Alba Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – Alba covers them all!
+## Code scaffolding
 
-<img src="https://genesisui.com/img/macbook-alba-bs4.png" alt="Bootstrap 4 Admin Template">
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class`.
 
-Demo: <a href="https://genesisui.com/bootstrap-admin-template.html?id=alba">Alba Bootstrap 4 Admin Template</a>
+## Build
 
-**NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/mrholek) to keep you update with this template.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-### What's included
+## Running unit tests
 
-Within the download you'll find the following directories and files, You'll see something like this:
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-```
-Alba/
-├── Angular_Dev/
-├── Angular_Seed/
-├── Angular2_CLI_Dev/
-├── jQuery_Dev/
-├── jQuery_Seed/
-├── Static_Dev/
-├── Static_Seed/
+## Running end-to-end tests
 
-```
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). 
+Before running the tests make sure you are serving the app via `ng serve`.
 
-##Bugs and feature requests
+## Deploying to Github Pages
 
-Have a bug or a feature request? [Please open a new issue](https://github.com/mrholek/Alba-Bootstrap-4-Admin-Template/issues/new).
+Run `ng github-pages:deploy` to deploy to Github Pages.
 
-## Copyright and license
+## Further help
 
-Copyright (c) 2017 creativeLabs Łukasz Holeczek. If you want to use this template in your personal or commercial project you have to buy proper license. You can buy license on our website: https://genesisui.com/bootstrap-admin-template.html?id=alba
+To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
